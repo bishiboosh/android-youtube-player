@@ -4,8 +4,8 @@ ext.versions = [
         compileSdk                      : 29,
         buildTools                      : '29.0.0',
 
-        publishVersion_core             : '10.0.6',
-        publishVersionCode_core         : 16,
+        publishVersion_core             : '10.0.7',
+        publishVersionCode_core         : 17,
 
         publishVersion_chromecast       : '0.24',
         publishVersionCode_chromecast   : 9,
